@@ -1,0 +1,18 @@
+pkgbase = python-pytest-annotate
+	pkgdesc = PyAnnotate as a pytest plugin.
+	pkgver = 1.0.5
+	pkgrel = 1
+	url = https://github.com/kensho-technologies/pytest-annotate
+	arch = any
+	license = Apache-2.0
+	checkdepends = python-pytest
+	checkdepends = pyannotate
+	makedepends = python-build
+	makedepends = python-installer
+	makedepends = python-setuptools
+	makedepends = python-wheel
+	depends = python
+	source = https://files.pythonhosted.org/packages/36/1b/bcc0d62ced8190773b2b0c778632e0806ede6d0fa2651af87661d3b66d12/pytest-annotate-1.0.5.tar.gz
+	sha512sums = d87c62a37ce2d0704466a83ca527513c1333525f38c4eeec31213ac75d03e8c84ebc51235f73882a32bc5495cd5a3696f2cd667320e048d8b7a827869c2f37ee
+
+pkgname = python-pytest-annotate
